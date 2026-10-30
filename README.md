@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
-  Student at Hanoi University of Mining and Geology · Based in Hanoi, Vietnam 🇻🇳
+  📍 Hanoi, Vietnam 🇻🇳<br/>
+  <sub>🎓 Hanoi University of Mining and Geology</sub>
 </p>
 
 <p align="center">
@@ -100,7 +101,7 @@ Most of my recent work lives in private repositories, so here is a summary of wh
   <a href="https://github.com/ngc-minh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Open to internships and collaboration on computer vision and AI projects.</i></p>
+<p align="center"><i>Always happy to talk about computer vision, edge AI and LLM systems.</i></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
