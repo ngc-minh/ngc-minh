@@ -82,7 +82,7 @@ Most of my recent work lives in private repositories, so here is a summary of wh
 
 ### 📚 Public repositories
 
-[Track & count objects (YOLOv8 + ByteTrack)](https://github.com/ngc-minh/Track-Count-Objects-using-YOLOv8-ByteTrack-Supervision) · [ESP32-CAM capture](https://github.com/ngc-minh/ESP32Cam_TakePhoto) · [ESP32 UART control](https://github.com/ngc-minh/ESP32_UART) · [Credit card fraud detection](https://github.com/ngc-minh/credit-card-fraud) · [Time series forecasting](https://github.com/ngc-minh/Time-Series-Forecasting-Model-Using-Python)
+[PPE safety monitoring on Raspberry Pi 5](https://github.com/ngc-minh/Safety_warning) · [Power forecasting with LSTM](https://github.com/ngc-minh/Time-Series-Forecasting-Model-Using-Python) · [Credit card fraud detection](https://github.com/ngc-minh/credit-card-fraud) · [Telco churn: data- vs model-centric](https://github.com/ngc-minh/DS4Marketing_Retaining-Customers) · [OpenStreetMap web map](https://github.com/ngc-minh/OpenStreetMap-OSM) · [Exam score scraping & analysis](https://github.com/ngc-minh/Thu-thap-va-phan-tich-diem-thi-THPT-2020)
 
 ## 🐍 Contribution snake
 
